@@ -1,0 +1,10 @@
+.row{
+	padding: 10px;
+	
+	background-color: #ffddff;
+}
+.box{
+	min-height:  80px;
+	background-color: pink;
+	margin-bottom: 10px;
+}
